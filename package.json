@@ -10,6 +10,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "aws-amplify": "^3.0.24",
+    "aws-amplify-react-native": "^4.2.5",
     "react": "16.13.1",
     "react-native": "0.63.2"
   },
